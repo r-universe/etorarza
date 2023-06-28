@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RVCompare"]
 	path = RVCompare
 	url = https://github.com/etorarza/rvcompare
-	shallow = true
-	registered = true
